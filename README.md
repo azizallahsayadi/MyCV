@@ -15,6 +15,11 @@ This certificate validates skills in **JavaScript Algorithms and Data Structures
 This certificate highlights expertise in **Bootstrap**, **React**, and **Redux**.
 ![all images](./myCertificates/front_end_Certificate.png)
 
+
+## Data Visualization
+This certificate highlights expertise in **D3**, and **Data visualization**.
+![all images](./myCertificates/datavisualization_certificate.jpg)
+
 ## English Intermediate Level Certificate
 This certificate confirms an intermediate level of English proficiency.
  ![all images](./myCertificates/WEI_31392.jpg)
